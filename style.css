@@ -133,13 +133,13 @@ input[type="text"]{
 
 @media (max-width: 600px){
   .cards{
-    flex-direction: column; 
+    flex-direction: column;  
     gap: 16px;                
-    padding: 0 12px;         
+    padding: 0 12px;          
   }
   .card{
-    max-width: 100%;
+    max-width: 100%;          
     width: 100%;
-    flex: 1 1 100%;           
+    flex: 1 1 100%;          
   }
 }
